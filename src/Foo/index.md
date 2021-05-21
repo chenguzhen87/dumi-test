@@ -5,7 +5,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'myapp';
+import { Foo } from 'dumi-test';
 
 export default () => <Foo title="First Demo" />;
 ```
